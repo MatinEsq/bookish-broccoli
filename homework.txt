@@ -2,3 +2,4 @@ to do:
 1. ANL501 TMA
 2. ACC505 GBA
 3. WA quiz 
+4. Graduate with GPA 4.5
